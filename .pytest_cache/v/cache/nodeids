@@ -1,0 +1,22 @@
+[
+  "test_seq_features.py::test_number_negatives_single_E_or_D",
+  "test_seq_features.py::test_number_negatives_for_empty",
+  "test_seq_features.py::test_number_negatives_for_short_sequences",
+  "test_seq_features.py::test_number_negatives_for_lowercase",
+  "test_seq_features.py::test_number_negatives_for_invalid_amino_acid",
+  "test_seq_features.py::test_number_positives_single_R_K_or_H",
+  "test_seq_features.py::test_number_positives_for_empty",
+  "test_seq_features.py::test_number_positives_for_short_sequences",
+  "test_seq_features.py::test_low_pH",
+  "test_seq_features.py::test_number_positives_for_lowercase",
+  "test_seq_features.py::test_number_positives_for_invalid_amino_acid",
+  "test_seq_features.py::test_number_negatives_for_invalid_amino_acid_anywhere",
+  "test_seq_features.py::test_number_positives_for_invalid_amino_acid_anywhere",
+  "test_seq_features.py::test_is_valid_sequence_for_invalid_amino_acid",
+  "test_seq_features.py::test_is_valid_sequence_for_invalid_amino_acid_anywhere",
+  "test_seq_features.py::test_is_valid_sequence_for_other_invalid_amino_acid_anywhere",
+  "test_seq_features.py::test_net_charge",
+  "test_seq_features.py::test_fraction_negatives",
+  "test_seq_features.py::test_fraction_positives",
+  "test_seq_features.py::test_fractional_net_charge"
+]
